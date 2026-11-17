@@ -1,5 +1,11 @@
 # Sandline Protocol — a three.js tactical FPS
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/Kuyang300/best-game-01/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/Kuyang300/best-game-01/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
+Entered in [make.fun's "Make the best game" bounty](https://make.fun/bounty/best-game-01) — $1,000 in USDC.
+
 A round-based tactical first-person shooter in the style Counter-Strike made
 famous, built on three.js 0.187.0 from static files — no build step, no
 network. You are the spike carrier for the attacking team in Kestrel Yard,
@@ -67,3 +73,7 @@ Screenshots: open `game/?shot=start|play|end&seed=1` for a staged shot; add
 save that shot as a PNG file (the 3D canvas only).
 
 MIT licensed. All map, art, sounds and names are original.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=ev664qf8&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
